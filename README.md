@@ -46,3 +46,5 @@
 ## Screenshot for reference.
 <img src="https://user-images.githubusercontent.com/45147588/113821559-e30cf600-9799-11eb-89ae-8be8370a82cd.PNG">
 <hr>
+
+Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
